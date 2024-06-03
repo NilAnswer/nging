@@ -1,8 +1,8 @@
 module github.com/admpub/nging/v5
 
-go 1.22.0
+go 1.20.0
 
-toolchain go1.22.3
+toolchain go1.20.5
 
 exclude github.com/gomodule/redigo v2.0.0+incompatible
 
